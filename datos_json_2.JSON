@@ -1,0 +1,28 @@
+[
+    {
+      "TimeAlive": 43.486626,
+      "AvgMatchKillDist": 511279.183091,
+      "Survived": 0
+    },
+    {
+      "TimeAlive": 51.120249,
+      "AvgMatchKillDist": 441179.183091,
+      "Survived": 0
+    },
+    {
+      "TimeAlive": 53.122511,
+      "AvgMatchKillDist": 671179.183091,
+      "Survived": 1
+    },
+    {
+      "TimeAlive": 51.120249,
+      "AvgMatchKillDist": 271319.183091,
+      "Survived": 1
+    },
+    {
+      "TimeAlive": 47.678861,
+      "AvgMatchKillDist": 371369.183091,
+      "Survived": 0
+    }
+]
+  
